@@ -1,6 +1,6 @@
-# ex1.
+# ex1.-ex.3
 
-Para resolver o exercício:
+Para resolver os exercícios:
 * criar uma nova branch
 * fazer commit das alterações
 * criar um novo Pull Request
@@ -28,3 +28,8 @@ Para começar crie um novo projeto no Visual Studio C++ e escreva (não faça co
     		return 0;
 	}
 ```
+## Tp1-Ex2:
+O programa anterior contém uma afirmação errada. Qual é? Coloque em comentário a frase errada.
+
+## Tp1-Ex3:
+Corrija todas as afirmações adicionando no fim de cada frase: “tendo em conta a segurança.” 
